@@ -6,9 +6,9 @@ type Props = {
   posts: Post[];
 };
 
-const PostList = ({ posts }: Props) => {
+const PostLayout = ({ posts }: Props) => {
   return (
-    <ul className="flex justify-between">
+    <ul className="grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
       {posts.map((post) => (
         <Card post={post} />
       ))}
@@ -16,4 +16,4 @@ const PostList = ({ posts }: Props) => {
   );
 };
 
-export default PostList;
+export default PostLayout;

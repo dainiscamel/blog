@@ -6,7 +6,7 @@
     "category": "REACT",
     "date": "2022-10-20",
     "path": "1",
-    "featuered": true
+    "featured": true
   },
   {
     "id": "2",
@@ -15,7 +15,7 @@
     "category": "NEXT",
     "date": "2022-10-20",
     "path": "2",
-    "featuered": false
+    "featured": false
   },
   {
     "id": "3",
@@ -24,7 +24,7 @@
     "category": "REACT",
     "date": "2022-10-20",
     "path": "2",
-    "featuered": true
+    "featured": true
   },
   {
     "id": "4",
@@ -33,7 +33,7 @@
     "category": "REACT",
     "date": "2022-10-20",
     "path": "2",
-    "featuered": true
+    "featured": true
   },
   {
     "id": "5",
@@ -42,7 +42,7 @@
     "category": "REACT",
     "date": "2022-10-20",
     "path": "2",
-    "featuered": true
+    "featured": true
   },
   {
     "id": "6",
@@ -51,6 +51,6 @@
     "category": "REACT",
     "date": "2022-10-20",
     "path": "2",
-    "featuered": true
+    "featured": true
   }
 ]
