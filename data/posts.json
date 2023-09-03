@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Featured",
     "description": "desc1",
-    "category": "REACT",
+    "category": "FRONTEND",
     "date": "2022-10-20",
     "path": "1",
     "featured": true
@@ -12,7 +12,7 @@
     "id": "2",
     "title": "Not Featured",
     "description": "desc2",
-    "category": "NEXT",
+    "category": "TIL",
     "date": "2022-10-20",
     "path": "2",
     "featured": false
@@ -21,7 +21,7 @@
     "id": "3",
     "title": "Featured",
     "description": "desc3",
-    "category": "REACT",
+    "category": "FRONTEND",
     "date": "2022-10-20",
     "path": "2",
     "featured": true
@@ -30,7 +30,7 @@
     "id": "4",
     "title": "Featured",
     "description": "desc3",
-    "category": "REACT",
+    "category": "TIL",
     "date": "2022-10-20",
     "path": "2",
     "featured": true
@@ -39,7 +39,7 @@
     "id": "5",
     "title": "Featured",
     "description": "desc3",
-    "category": "REACT",
+    "category": "JS",
     "date": "2022-10-20",
     "path": "2",
     "featured": true
@@ -48,7 +48,7 @@
     "id": "6",
     "title": "Featured",
     "description": "desc3",
-    "category": "REACT",
+    "category": "JS",
     "date": "2022-10-20",
     "path": "2",
     "featured": true

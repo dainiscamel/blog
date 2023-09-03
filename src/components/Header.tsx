@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header className="flex justify-between items-center p-4">
       <Link href="/" className="text-3xl font-bold">
-        {"Dain's Blog"}
+        {"BBBlog"}
       </Link>
       <nav className="flex gap-3">
         <Link href="/">HOME</Link>
